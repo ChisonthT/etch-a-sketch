@@ -1,0 +1,14 @@
+#gameSpace{
+    display: flex;
+    flex-wrap:wrap;
+    width: 512px;
+    height: 512px;
+    outline:black solid 1px;
+}
+
+.tile{
+    width:32px;
+    height:32px;
+    overflow:hidden;
+    outline:black solid 1px;
+}
