@@ -7,8 +7,7 @@
 }
 
 .tile{
-    width:32px;
-    height:32px;
+    flex: 1 1 auto;
     overflow:hidden;
     outline:black solid 1px;
 }
